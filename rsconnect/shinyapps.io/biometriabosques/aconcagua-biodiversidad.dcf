@@ -1,0 +1,13 @@
+name: aconcagua-biodiversidad
+title:
+username:
+account: biometriabosques
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9514053
+bundleId: 7508605
+url: https://biometriabosques.shinyapps.io/aconcagua-biodiversidad/
+when: 1690598301.19376
+lastSyncTime: 1690598301.19377
+asMultiple: FALSE
+asStatic: FALSE

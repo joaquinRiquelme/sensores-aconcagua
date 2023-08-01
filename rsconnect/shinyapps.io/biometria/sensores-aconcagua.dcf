@@ -1,0 +1,13 @@
+name: sensores-aconcagua
+title: sensores-aconcagua
+username:
+account: biometria
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9524582
+bundleId: 7508661
+url: https://biometria.shinyapps.io/sensores-aconcagua/
+when: 1690600336.00746
+lastSyncTime: 1690600336.00747
+asMultiple: FALSE
+asStatic: FALSE
